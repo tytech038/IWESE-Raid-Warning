@@ -1,0 +1,18 @@
+{
+  "content": "```ALERT ALERT ALERT\nWARNING WARNING WARNING\nA SPY IS MORE PROBABLE TO BE IN THE SERVER\nREPEATING. A SPY IS MORE PROBABLE TO BE IN THE SERVER\n```",
+  "embeds": [
+    {
+      "title": "What To Do If there is a spy",
+      "description": "New Information: Spy More Probable To Be In The Server\n\nAll raidwatch members are to start ghosting now.\n\nMembers are advised to stay aware and report any activity to staff. Preferably admins.",
+      "color": 16711680,
+      "author": {
+        "name": "WARNING SYSTEM - SPY ADVISORY DECLARED"
+      },
+      "footer": {
+        "text": "And please, PLEASE follow these."
+      }
+    }
+  ],
+  "username": "SpyCheck",
+  "avatar_url": "https://i.imgur.com/fBBrhBs.jpg"
+}
